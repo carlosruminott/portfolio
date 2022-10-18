@@ -11,13 +11,13 @@
 <p>{data.title}</p>
 
 <div class="info">
-    <h1>Carlos Ruminott</h1>
+    <h1 class="text-3xl font-bold">Carlos Ruminott</h1>
     <p>Diseñador y desarrollador web full stack</p>
-    <a href="/about">about</a>
+    <a href="/about" class="underline">about</a>
 </div>
 
 <div class="info">
     <h1>Carlos Ruminott</h1>
     <p>Diseñador y desarrollador web full stack</p>
-    <a href="/about">about</a>
+    <a href="/about" class="underline">about</a>
 </div>
