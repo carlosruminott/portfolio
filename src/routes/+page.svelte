@@ -21,9 +21,3 @@
     <p>Diseñador y desarrollador web full stack</p>
     <a href="/about">about</a>
 </div>
-
-<style>
-    .info {
-        height: 100vh;
-    }
-</style>

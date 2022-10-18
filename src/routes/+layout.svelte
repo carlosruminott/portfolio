@@ -26,9 +26,10 @@
         background-color: #000;
         opacity: var(--scrollY);
         position: fixed;
+        right: 10px;
     }
     .container {
         height: 200vh;
-        overflow-y: scroll;
+        /*overflow-y: scroll;*/
     }
 </style>
